@@ -1,4 +1,4 @@
-![preview](./preview.png)
+<img src="preview.png" width="240">
 
 ## 🧩 How to Install the Extension (from the dist folder)
 
