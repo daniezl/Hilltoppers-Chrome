@@ -1,5 +1,3 @@
-# Hilltoppers-Chrome
-
 ## 🧩 How to Install the Extension (from the dist folder)
 
 Since this extension isn’t on the Chrome Web Store yet, you’ll need to install it manually.
