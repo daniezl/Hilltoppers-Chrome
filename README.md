@@ -7,7 +7,7 @@ It’s quick and safe — no special permissions required.
 
 ### 1️⃣ Download the dist.zip file
 
-Get the ZIP file I sent you (it’s the built version of the extension).
+Get the ZIP file in the release (on the right of this page)
 
 Unzip it — you’ll get a folder named dist.
 
